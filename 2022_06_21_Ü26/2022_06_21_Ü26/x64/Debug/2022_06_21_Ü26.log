@@ -1,0 +1,18 @@
+﻿  Main.c
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(47,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(47,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'int *'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(48,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'double *'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(48,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'double *'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(50,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(50,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'int **'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(50,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(50,9): warning C4313: 'printf': '%u' in format string conflicts with argument 2 of type 'int *'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(51,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(51,9): message : consider using '%zi' in the format string
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(52,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'double **'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(52,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'double **'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(52,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'double *'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(52,9): warning C4313: 'printf': '%u' in format string conflicts with argument 2 of type 'double *'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(53,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\micha\source\repos\2022_06_21_Ü26\2022_06_21_Ü26\Main.c(53,9): message : consider using '%zi' in the format string
+  2022_06_21_Ü26.vcxproj -> C:\Users\micha\source\repos\2022_06_21_Ü26\x64\Debug\2022_06_21_Ü26.exe
